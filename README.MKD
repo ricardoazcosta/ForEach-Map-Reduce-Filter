@@ -1,0 +1,77 @@
+<h1 align="center">ForEach-MAp-Reduce-Filter</h1>
+
+### Projeto JavaScript de Listagem de Produtos
+
+<p align="center">
+  <img src="./assets/preview.png" alt="ForEach">
+</p>
+<div style align="center"><br>
+<img align="center" alt="Ricardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ricardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ricardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
+## Descrição
+Este é um projeto simples que utiliza JavaScript para manipular uma lista de produtos. O projeto possui as seguintes funcionalidades:
+
+Exibir a lista completa de produtos
+Aplicar um desconto de 10% em todos os produtos
+Calcular o valor total de todos os itens da lista
+Filtrar os produtos veganos
+As funções para as funcionalidades acima estão nas seguintes linhas:
+
+Exibir a lista completa de produtos: linhas 28-47
+Aplicar um desconto de 10% em todos os produtos: linhas 49-60
+Calcular o valor total de todos os itens da lista: linhas 62-73
+Filtrar os produtos veganos: linhas 75-87
+As funções são executadas quando os botões no HTML são clicados.
+
+Função formatarMoeda
+A função formatarMoeda recebe um valor monetário como parâmetro e retorna uma string formatada no formato de moeda brasileiro.
+
+Função mostrarTudo
+A função mostrarTudo recebe um array de produtos como parâmetro e exibe cada produto como uma lista no HTML.
+
+Função mapearTodosItens
+A função mapearTodosItens utiliza a função map para aplicar um desconto de 10% em todos os preços dos produtos e exibe a lista atualizada no HTML.
+
+Função somarTodosItens
+A função somarTodosItens utiliza a função reduce para calcular o valor total de todos os itens da lista e exibe o resultado no HTML.
+
+Função filtrarItensDaLista
+A função filtrarItensDaLista utiliza a função filter para filtrar os produtos veganos da lista e exibe a lista filtrada no HTML.
+
+## Pré-requisitos
+Um navegador de internet para abrir e visualizar o projeto.
+Como rodar o projeto
+Abra o arquivo HTML em um navegador de internet.
+Construído com
+HTML
+CSS
+JavaScript
+
+### Uso do Projeto:
+
+1. Certifique-se de ter acesso aos elementos HTML correspondentes, como botões e listas.
+2. Explore as funcionalidades, como exibição da lista, mapeamento, soma e filtragem.
+3. Utilize o método `formatarMoeda(valor)` para formatar valores monetários.
+
+## Licença
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
+
+## Autor
+Ricardo Alexandre Costa
+## Contato 
+<img height ="30" align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg)"> [LinkedIn](https://www.linkedin.com/in/ricardo-alexandre-costa1985/)
+
+<a href = " https://wa.me/18997490885"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+
+  <a href = "mailto:contatoricardozanete@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+
+## Agradecimentos
+- [Google Fonts](https://fonts.google.com/) - Fontes utilizadas no projeto
+
+---
+
+Essa é uma breve descrição do projeto e suas funcionalidades principais. Sinta-se à vontade para explorar e expandir esse projeto conforme necessário! 😊
