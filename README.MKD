@@ -62,7 +62,7 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](.
 ## Autor
 Ricardo Alexandre Costa
 ## Contato 
-<img height ="30" align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg)"> [LinkedIn](https://www.linkedin.com/in/ricardo-alexandre-costa1985/)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/) <a href ="https://www.linkedin.com/in/ricardo-alexandre-costa1985/)"></a>
 
 <a href = " https://wa.me/18997490885"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
