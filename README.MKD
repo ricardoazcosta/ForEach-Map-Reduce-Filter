@@ -20,10 +20,10 @@ Calcular o valor total de todos os itens da lista
 Filtrar os produtos veganos
 As funções para as funcionalidades acima estão nas seguintes linhas:
 
-Exibir a lista completa de produtos: linhas 28-47
-Aplicar um desconto de 10% em todos os produtos: linhas 49-60
-Calcular o valor total de todos os itens da lista: linhas 62-73
-Filtrar os produtos veganos: linhas 75-87
+Exibir a lista completa de produtos: 
+Aplicar um desconto de 10% em todos os produtos:
+Calcular o valor total de todos os itens da lista: 
+Filtrar os produtos veganos: 
 As funções são executadas quando os botões no HTML são clicados.
 
 Função formatarMoeda
